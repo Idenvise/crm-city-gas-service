@@ -1,0 +1,1 @@
+@import'/node_modules/normalize.css/normalize.css';@import'/src/vendor/fonts.css';.app{font-family:"Roboto",sans-serif;width:100%;height:100vh;display:flex}.visibility_hidden{visibility:hidden}.display_none{display:none}.section{display:flex;flex-direction:column;width:100%}

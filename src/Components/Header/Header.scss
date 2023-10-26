@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    width: 100%;
+    margin-top: 40px;
+}
+
+.header__link {
+    width: 40px;
+    height: 40px;
+    background-size: 18px 18px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url('../../../public/images/header__link_arrow.svg');
+    margin: 0 0 0 51px;
+    cursor: pointer;
+}
+
+.header__name {
+    margin: 0 0 0 10px;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 40px;
+}
